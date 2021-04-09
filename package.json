@@ -1,5 +1,5 @@
 {
-  "name": "backend-cliente",
+  "name": "backend-produto",
   "version": "1.0.0",
   "description": "npm init",
   "main": "index.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lucas-star-wars/backend-cliente.git"
+    "url": "git+https://github.com/Lucas-star-wars/backend-produto.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lucas-star-wars/backend-cliente/issues"
+    "url": "https://github.com/Lucas-star-wars/backend-produto/issues"
   },
-  "homepage": "https://github.com/Lucas-star-wars/backend-cliente#readme"
+  "homepage": "https://github.com/Lucas-star-wars/backend-produto#readme"
 }
