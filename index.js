@@ -21,9 +21,8 @@ app.use((req, res, next) => {
 });
  
 sequelize.sync({ force: false }).then(() => {
-
-    const port = 3003;
-
+    //const port = 3003;
+    const PORT = process.env.PORT || 3003;
     app.set("port", process.env.PORT || port);
 
     const server = http.createServer(app);
